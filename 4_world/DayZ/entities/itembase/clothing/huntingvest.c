@@ -1,0 +1,1 @@
+class HuntingVest extends Vest_Base {};
